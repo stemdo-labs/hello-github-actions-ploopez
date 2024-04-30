@@ -7,7 +7,7 @@ _Crea y ejecuta un flujo de trabajo de GitHub Actions._
 </header>
 
 ## Paso 5: Activar el flujo de trabajo
-
+😎
 _¡Ahora has agregado un flujo de trabajo completamente funcional a tu repositorio! :smile:_
 
 El script de shell en el flujo de trabajo se ejecutará cada vez que se abra una nueva pull request.
